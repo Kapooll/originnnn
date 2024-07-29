@@ -1,2 +1,2 @@
-# originnnn
+# repo-remoto
 origin
